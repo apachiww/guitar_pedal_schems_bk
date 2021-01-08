@@ -10,8 +10,6 @@
 
 [homemade-circuits.com](https://www.homemade-circuits.com/)
 
-[circuit-finder.com](https://www.circuit-finder.com/)
-
 [aionelectronics.com](https://aionelectronics.com/)
 
 [blueguitar.org](http://www.blueguitar.org/)
@@ -25,8 +23,6 @@
 [geofex.com](http://geofex.com/)
 
 [sabrotone.com](https://www.sabrotone.com/)
-
-[tagboardeffects.blogspot.com](http://tagboardeffects.blogspot.com/)
 
 [electricdruid.net](https://electricdruid.net/)
 
